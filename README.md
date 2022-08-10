@@ -10,6 +10,7 @@ You will at least need to have:
 
 * Iosevka Nerd Font
 * JetBrainsMono Nerd Font
+* Knack Nerd Font
 * ZSH
 * [Oh My ZSH](https://ohmyz.sh/)
 * [Powerlevel10k installed through Oh My ZSH](https://github.com/romkatv/powerlevel10k)
