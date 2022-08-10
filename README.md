@@ -6,7 +6,7 @@ NOTE: Dotfiles may consistently update.
 ![Preview](Preview.png)
 
 # Dependencies
-You will at least need to have:
+You need to have:
 
 * Iosevka Nerd Font
 * JetBrainsMono Nerd Font
@@ -23,6 +23,7 @@ You will at least need to have:
 * Treemacs Emacs package installed for a sidebar that shows files
 * Tremacs-All-The-Icons Emacs package installed for the icons in Treemacs
 * Vterm Emacs package installed for an Emacs terminal emulator
+* Bongo Emacs package installed with some of its backends if you want a music player in Emacs (optional)
 * Polybar
 * Pfetch
 * Feh
