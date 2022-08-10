@@ -1,13 +1,3 @@
-/*
- * ROFI One Dark
- *
- * Based on OneDark.vim (https://github.com/joshdick/onedark.vim)
- *
- * Author: Benjamin Stauss
- * User: FutureAxolotl
- *
- */
-
 
 * {
   black:      #282a36;
