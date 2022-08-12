@@ -79,7 +79,7 @@
 (treemacs-load-theme "all-the-icons")
 (load-file "~/.doom.d/scripts/discord-emacs.el")
 (discord-emacs-run "384815451978334208")
-(global-evil-colemak-basics-mode)
+
 
 ;; modes for certain filetypes
 (add-to-list 'auto-mode-alist '("\\.html.erb\\'" . web-mode))
