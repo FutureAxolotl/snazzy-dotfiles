@@ -29,7 +29,10 @@ You need to have:
 * Feh
 * Rofi
 * Discord with [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) installed
-
+* xorg-xprop
+* xdo
+* wmctrl
+* slop
 # Installation
 
 ``` sh
