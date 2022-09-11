@@ -8,9 +8,9 @@ cp -r sxhkd ~/.config
 cp -r rofi ~/.config
 cp .zshrc ~/
 cp .p10k.zsh ~/
-cp -r .zsh-syntax-highlighting ~/
 cp -r dunst ~/.config
 cp -r polybar ~/.config
 cp -r bspwm ~/.config
 cp -r alacritty ~/.config
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 echo "Dotfiles copied. I hope you enjoy!:D "
