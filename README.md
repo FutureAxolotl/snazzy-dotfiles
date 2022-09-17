@@ -38,4 +38,3 @@ You need to have:
 ``` sh
 git clone https://github.com/FutureAxolotl/snazzy-dotfiles.git && cd snazzy-dotfiles && ./install.sh
 ```
-You will have to change DVI-0 in line 300 of the Polybar config to whatever the monitor input is (run xrandr if you don't know what input it is). For information about multi-monitor support, refer to the [Polywins.py GitHub page](https://github.com/CordlessCoder/polywins.py).
